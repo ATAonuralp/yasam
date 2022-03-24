@@ -1,17 +1,13 @@
-# yasam
+column , row expanded ilişkisini sıkça kullanarak yapmış olduğum yaşam uygulaması slider lar ve butonlar yardımıyla belli bir hesaplama ile başka bir sayfada hesaplamasını gösteriyor.
+Birkaç dart sayfası kullanarak değişkenleri daha kolay okunabilirlik sağladım azda olsa,ve ayrıca değişken degerlerini baska bir class içinde daha güvenilir olmasını sağlamış bulunmaktayım.
 
-A new Flutter project.
+bu görsel direk açılış sayfasını gösteriyor
+![Screenshot_1648127672](https://user-images.githubusercontent.com/102283544/159924051-988c8b54-efff-4081-88d6-334b4fb4eb0e.png)
 
-## Getting Started
+burdaki görsel butonların sliderların text lerin gösterimi
 
-This project is a starting point for a Flutter application.
+![Screenshot_1648127691](https://user-images.githubusercontent.com/102283544/159924194-9c1bba4f-dad3-48ab-b8c9-99dbd32f30f6.png)
 
-A few resources to get you started if this is your first Flutter project:
+son olarakta diğer hesaplamaları yani sonucumuzu gösteren sayfa birde geri don butonu ekledım cok fazla görselleştirmedim.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# yasam
+![Screenshot_1648127696](https://user-images.githubusercontent.com/102283544/159924355-bce789ac-035d-494e-9cd8-1d13a68fb8b9.png)
